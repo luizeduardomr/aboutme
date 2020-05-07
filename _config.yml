@@ -8,7 +8,7 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 # User settings
 username: Luiz Eduardo
 user_description: Software Engineering student at PUCRS, passionate about programming, technology, minimalism, coffee, design, UX, coffee, marketing and coffee!
-user_title: Software Engineering student
+user_title: Software Engineering Student
 email: luiz.reis@edu.pucrs.br
 # twitter_username: lorem_ipsum
 github_username:  luizeduardomr
