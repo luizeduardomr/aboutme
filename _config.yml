@@ -6,7 +6,7 @@ baseurl: "/aboutme" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Luiz Eduardo M.R
+username: Luiz Eduardo
 user_description: Software Engineering student at PUCRS, passionate about programming, technology, minimalism, coffee, design, UX, coffee, marketing and coffee!
 user_title: Software Engineering student
 email: luiz.reis@edu.pucrs.br
