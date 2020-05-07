@@ -2,7 +2,7 @@
 title: About me!
 description: On this website you can see information about me, my interests, hobbies, main projects and more.
 
-baseurl: "/aboutme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
