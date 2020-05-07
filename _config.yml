@@ -2,8 +2,8 @@
 title: Who is Luiz?
 description: On this website you can see information about me, my interests, hobbies, main projects and more.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "luizeduardomr.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Luiz Eduardo
